@@ -1,19 +1,8 @@
-#============================================
-# Program for Clinical Research Unit Analyst,
-# Test Data Worksheet.
-# Written by Pooneh Pordeli
-# Feb. 2015
-#============================================
-
-#sink("Question2.txt", append=TRUE)
-
-# Defining required libraries in "R";
-#install.packages("stats")  # ... for statistical operations;
-library(stats)
-
 ##############
 # Question 2 #
 ##############
+
+#sink("Question2.txt", append=TRUE)
 
 # Read the dataset from the path that it has been saved as a "csv" file; 
 #(Different in each computer); 
